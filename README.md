@@ -1,2 +1,3 @@
 # AutoKart
 AutoKart is an automation project that automates flipkart and amazon
+This is a project in which user double clicks on a bat file on desktop which opens a user interface that asks user to select a file basically the csv file the csv file consists of product name, required(yes or no), brand, rating platform on which user wants to perform search(amazon or flipkart) according to the data in csv file, the automation script opens flipkart or amazon even switches between the two websites when needed and apply filters, add product to cart, use the address and finally end the operation with a dialog box automation completed successfully.
